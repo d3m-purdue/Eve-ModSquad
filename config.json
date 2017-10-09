@@ -1,0 +1,8 @@
+{
+    "problem_schema": "/storage/data/o_185/problemSchema.json",
+    "dataset_schema": "/storage/data/o_185/data/dataSchema.json",
+    "training_data_root": "/storage/data/o_185/data",
+    "pipeline_logs_root": "/storage/pipeline_logs",
+    "executables_root": "/storage/solution",
+    "temp_storage_root": "/storage/temp"
+}
